@@ -174,7 +174,7 @@
     "sinon": "^7.2.3",
     "url-loader": "^1.1.2",
     "webpack-blocks": "^1.0.0",
-    "webpack-bundle-analyzer": "^3.0.3"
+    "webpack-bundle-analyzer": "^3.0.4"
   },
   "jest": {
     "moduleNameMapper": {
